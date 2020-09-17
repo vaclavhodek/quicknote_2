@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuickNote</string>
+    <string name="add_note">Add Note</string>
+    <string name="notification_channel_general">QuickNote</string>
+    <string name="notification_text">Tap to add quick note.</string>
+    <string name="notification_exit">Exit</string>
+</resources>
